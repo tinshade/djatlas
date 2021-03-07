@@ -38,6 +38,4 @@
 ## Screenshots
 ![Final GUI OUTPUT](https://github.com/tinshade/djatlas/main/SS/MyCluster.png "Here is my atlas cluster after the migration!")
 
-![Final CMD OUTPUT](https://github.com/tinshade/djatlas/main/SS/output.png "Here is what your output should look like")
-
 ![Where to find connection string](https://github.com/tinshade/djatlas/main/SS/urlstring.png "Your URL String appears when you hit Connect > Connect to application > Python3.6 or above from the cluster.")
