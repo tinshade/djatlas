@@ -1,6 +1,6 @@
 # Integrating MongoDB ATLAS with Django 3.1.1
 
-![Final GUI OUTPUT](https://github.com/tinshade/djatlas/main/SS/MyCluster.png "Here is my ATLAS cluster after the migration!")
+![Final GUI OUTPUT](https://raw.githubusercontent.com/tinshade/djatlas/main/SS/MyCluster.png "Here is my ATLAS cluster after the migration!")
 
 ## Pre-Requisites
 	1. Must have a Mongo ATLAS account.
@@ -36,6 +36,6 @@
 ---
 
 ## Screenshots
-![Final GUI OUTPUT](https://github.com/tinshade/djatlas/main/SS/MyCluster.png "Here is my atlas cluster after the migration!")
+![Final GUI OUTPUT](https://raw.githubusercontent.com/tinshade/djatlas/main/SS/MyCluster.png "Here is my atlas cluster after the migration!")
 
-![Where to find connection string](https://github.com/tinshade/djatlas/main/SS/urlstring.png "Your URL String appears when you hit Connect > Connect to application > Python3.6 or above from the cluster.")
+![Where to find connection string](https://raw.githubusercontent.com/tinshade/djatlas/main/SS/urlstring.png "Your URL String appears when you hit Connect > Connect to application > Python3.6 or above from the cluster.")
